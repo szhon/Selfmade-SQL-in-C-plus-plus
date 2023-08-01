@@ -1,0 +1,27 @@
+CREATE sexy 10 int int bool int bool bool int double int double freely knowledge demonstrate elementary external nuclear myth incredible mexican mate 
+INSERT INTO sexy 6 ROWS
+185 46 false 94 true false 94 156.248 32 175.766 
+74 96 true 143 false false 81 122.75 183 45.0895 
+185 46 false 94 true false 94 156.248 32 175.766 
+74 96 true 143 false false 81 122.75 183 45.0895 
+185 46 false 94 true false 94 156.248 32 175.766 
+74 96 true 143 false false 81 122.75 183 45.0895 
+JOIN sexy AND sexy WHERE freely = freely AND PRINT 4 knowledge 1 demonstrate 2 elementary 2 external 1
+CREATE xy 10 int int bool int bool bool int double int double freely knowledge demonstrate elementary external nuclear myth incredible mexican miao 
+INSERT INTO xy 6 ROWS
+185 46 false 94 true false 94 156.248 32 175.766 
+74 96 true 143 false false 81 122.75 183 45.0895 
+185 46 false 94 true false 94 156.248 32 175.766 
+74 96 true 143 false false 81 122.75 183 45.0895 
+185 46 false 94 true false 94 156.248 32 175.766 
+74 96 true 143 false false 81 122.75 183 45.0895
+JOIN xy AND sexy WHERE mate  = miao AND PRINT 4 miao 1 incredible 2 mexican 2 mate 1
+GENERATE FOR sexy hash INDEX ON freely
+JOIN xy AND sexy WHERE mate  = miao AND PRINT 4 miao 1 incredible 2 mexican 2 mate 1
+GENERATE FOR xy bst INDEX ON miao
+JOIN xy AND sexy WHERE mate  = miao AND PRINT 4 miao 1 incredible 2 mexican 2 mate 1
+GENERATE FOR sexy bst INDEX ON mate
+JOIN xy AND sexy WHERE mate  = miao AND PRINT 4 miao 1 incredible 2 mexican 2 mate 1
+PRINT 
+DELETE FROM sexy WHERE mate > 100
+QUIT

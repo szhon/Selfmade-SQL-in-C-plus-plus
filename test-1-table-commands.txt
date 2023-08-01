@@ -1,0 +1,22 @@
+#
+CREATE enact 3 bool bool bool someday lid till
+INSERT INTO enact 4 ROWS
+false true false
+false true false
+false true false
+false true false
+##
+REMOVE M
+PRINT FROM enact 3 someday lid till ALL
+GENERATE FOR enact hash INDEX ON lid
+GENERATE FOR enact hash INDEX ON lid
+PRINT FROM enact 3 someday lid till ALL
+PRINT FROM enact 3 someday lid till ALL
+GENERATE FOR enact hash INDEX ON touch
+CREATE abc 3 bool bool bool someday lid till
+CREATE def 3 bool bool bool someday lid till
+REMOVE enact
+REMOVE c
+QUIT
+#insert // error. the previous command
+#previous command
